@@ -14,7 +14,7 @@ class Calculadora:
         self.entrada = tk.Entry(
             root,
             width=17,
-            font=("Arial", 28),  # fuente
+            font=("Arial", 28),  # fuente delk texto
             borderwidth=0,  # borde
             relief="solid",
             bg="#2b2b2b",  # color de fondo
