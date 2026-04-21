@@ -2,7 +2,7 @@
 
 Creando alculadora interactiva con interface de usuario.
 
-![Calculadora](https://photos.fife.usercontent.google.com/pw/AP1GczM4lJnjahpwx8aprPVPBBc8cWCesvRCGiCTQs2MrDJw8w-bJhfFpgg=w661-h913-s-no?authuser=0)
+![Calculadora]([https://photos.fife.usercontent.google.com/pw/AP1GczM4lJnjahpwx8aprPVPBBc8cWCesvRCGiCTQs2MrDJw8w-bJhfFpgg=w661-h913-s-no?authuser=0](https://github.com/AldoPydev/Calculadora/blob/main/img/00.png?raw=true))
 
 ### Paso 1:
 Se inicia por importar la librería de Tkinter, así mismo el apartado de messagebox
